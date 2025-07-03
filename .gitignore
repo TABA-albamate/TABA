@@ -3,3 +3,5 @@ __pycache__/
 uploads/
 *.pyc
 credentials.json
+client_secret_*.json
+credentials.json
