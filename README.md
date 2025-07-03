@@ -55,7 +55,9 @@ yaml
 
 1. **POST 요청**
 
+
 ⚠️ 주의 사항
+
 credentials.json, client_secret_*.json은 절대 Git에 올리지 말 것
 
 .gitignore에 해당 파일 포함됨
